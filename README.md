@@ -1,2 +1,1 @@
-# fullcyclerocks
-Desafio Full Cycle
+docker run alexandrevcar/full-cycle-rocks:latest bash
